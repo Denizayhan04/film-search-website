@@ -7,7 +7,7 @@ Serdar Kafalı - 23181616773
 Özgür Taşkıran - 23181616016
 Arda Muhammet Akyürek - 23181616018
 
-
+## Proje Bilgileri
 Bu proje, kullanıcıların film ismine veya kategoriye göre arama yapabildiği, detaylarını görüntüleyebildiği ve favorilerine ekleyebildiği web tabanlı bir film platformudur.
 
 ## 🚀 Özellikler
